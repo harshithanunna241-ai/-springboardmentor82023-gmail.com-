@@ -1,0 +1,46 @@
+LangChain, LangGraph, and Tavily - Documentation Overview
+
+1. LangChain
+
+LangChain is a framework for building applications powered by large
+language models (LLMs). It provides tools for chaining together prompts,
+memory, agents, and retrieval mechanisms.
+
+Key Features: - Prompt templates - LLM wrappers - Chains for sequential
+operations - Retrieval-Augmented Generation (RAG) - Tools & Agents
+system - Integrations with vector databases
+
+Use Cases: - Chatbots - Research assistants - RAG systems - Workflow
+automation
+
+2. LangGraph
+
+LangGraph is a graph-based workflow engine designed for building
+multi-agent AI systems. It is inspired by React and state machines,
+allowing developers to control AI agent flow precisely.
+
+Key Features: - Node-based execution flow - Persistent and mutable
+state - Branching, loops, and conditional execution - Agent
+orchestration - Scalable research and automation pipelines
+
+Use Cases: - Multi-agent collaboration - Research pipelines - Automated
+workflows - Agent state management
+
+3. Tavily Search API
+
+Tavily is an AI-powered search API optimized for research and factual
+data retrieval. It provides high-quality search results with structured
+outputs.
+
+Key Features: - Fast and accurate search results - Summaries of web
+pages - Citation-supported retrieval - Easy integration with LangChain
+
+Use Cases: - Research agents - Q&A systems - Fact-checking - Automated
+report generation
+
+Summary:
+
+LangChain helps structure LLM operations, LangGraph orchestrates agents
+using graph workflows, and Tavily provides accurate search results.
+Together, they form a powerful stack for building intelligent research
+assistants.
